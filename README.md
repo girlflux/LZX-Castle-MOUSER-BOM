@@ -12,6 +12,8 @@ There are two main files in this repository:
 		</ul>
 </ul>
 
+<hr>
+
 For the compiled list here is an explanation of the <b>highlighted cells colour coding</b>:
 <ul>
 	<li>Red     — indicates parts that have been discontinued. A corresponding substitute is highlighted on the same row.
