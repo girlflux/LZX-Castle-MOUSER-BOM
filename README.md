@@ -2,11 +2,11 @@
 
 There are two main files in this repository:
 <ul>
-	<li>LZX CASTLE — MOUSER BOM.xlsx
+	<li>LZX CASTLE — MOUSER BOM
 		<ul>
 		<li> A single sheet list compiled for <b>one of each</b> module in the series, with the parts visually grouped by type.
 		</ul>
-	<li>LZX CASTLE.xlsx
+	<li>LZX CASTLE
 		<ul>
 		<li> A multi-sheet list, organized by module. One module per sheet and unchanged regarding the original references.
 		</ul>
